@@ -1,4 +1,4 @@
-# Hi, I'm Ranadheer 👋
+# Hi, I'm Prachi 👋
 
 Bioinformatics and software, somewhere between the wet-lab questions and the code that
 answers them. I like taking a messy public dataset or a vague "can we predict X" and
@@ -34,4 +34,4 @@ and a test suite.
 - Most of what I build starts from a real dataset rather than a toy one.
 - Always happy to talk bioinformatics, ML for biology, or just clean code.
 
-📫 ranadheerpothula@gmail.com
+📫 prachithakur7330@gmail.com
